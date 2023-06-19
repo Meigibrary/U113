@@ -1,11 +1,9 @@
 # U113
 U-113 Bootcamp Ekibi GitHub Reposu
 # **Takım İsmi**
-
-
-
+Constellation Games
 # Ürün İle İlgili Bilgiler
-
+Bilgilendiri olmasıyla her yaştaki bireye hitap edecek ve bu sayede uzayın ve bilginin derinliklerine doğru oyuncuları bir macera bekliyor olucak.
 
 ## Takım Elemanları
 
@@ -15,10 +13,12 @@ Yahya MERCAN - Developer
 
 ## Ürün İsmi
 
-
+Dünya'ya Dönüş
 
 ## Ürün Açıklaması
 Uzayın sınırsız derinliklerinde kaybolmuş bir astronotun farklı gezegenlerde farklı atmosterlere göre değişen ve engellerle dolu dünyaya dönme mücadelesi
+
+Oyun farklı gezegenlerden oluşan bir galaksi haritası ile başlıyor. Uzaylılar tarafından takip edilen karakterimiz çeşitli tuzaklardan geçmeli ve her gezegende düşman uzaylılarla savaşmalıdır. Gezegenler, her biri benzersiz ve tehlikeli ortamlar sunmaktadır. Her gezegende karakter, uzaylılardan kaçmak için becerilerini ve yeteneklerini kullanmalıdır. Karakterinin yeteneklerini geliştirmek için yeni silahlar ve güçlendirmeler alabilir. 
 
 ## Ürün Özellikleri
 2D tek kişilik bir oyundur, her adımda dünyaya yaklaşırken bir o kadarda engeller ve zorluklar artmaktadır
@@ -29,34 +29,20 @@ Bilgilendirici olmasından ötürü her yaştan insana hitap edebilecek ve epile
 
 ## Product Backlog URL
 
-(miro kullanılacak)
+![image](https://github.com/Meigibrary/U113/assets/120041360/96973cb6-71f2-46ff-a386-2f97621881f8)
 
----
+# Sprint 1 
+   İlk toplantımızda hızlıca bir oyun fikri bulup bunu geliştirmeye odaklandık, oyunumuzda 2D kullanmanın oynanabilirliğini kolaylaştırma ve her kesime hitap  edebilmesini sağlamak adına mantıklı olduğunu düşündük.
+   Ürün adı "Dünya'ya Dönüş" olarak kararlaştırıldı .
+   Her ekip üyesine roller tanındı ve  bir itiraz olmadı.
+   Oyun tasarımında  devam ederken aynı zamanda gelişmek istediğimiz konuları belirleyip Bootcamp boyunca da hem ekip hemde bireysel olarak gelişimlerimizi desteklemeye karar verdik.
 
-# Sprint 1
-
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
-
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 puan
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı sesli olduğundan ötürü ve chat kısmında sadece kaynak paylaşım olarak kullandığımızdan ötürü belirli somut örneğimiz ilk sprintte bulunmamaktadır.
-- 
-- **Sprint board update**: Sprint board screenshotları: 
-
-- **Ürün Durumu**: Çalışılmaya salı gününden itibaren başlanacaktır yaş farkı ve eğitim durumları farklılık gösterdiğinden uygun zaman ayarlanmasında zorluklar meydana gelmiştir
+- **Ürün Durumu**: Çalışılmaya salı gününden itibaren başlanacaktır yaş farkı ve eğitim durumları farklılık gösterdiğinden uygun zaman ayarlanmasında zorluklar meydana gelmiştir.
   
-
 - **Sprint Review**: 
 - Katılımcılar; Ceylin Sıla Kibaroğlu, Melike Özakbay, Yahya Mercan
 - Review: Sprint boyunca temeli sağlam olabilecek bir hikaye araştırması yaptık, özgün olmaya gayret ettik ve benzer çeşitlikteki oyunların tasarımda dikkat edilen unsurlara baktık.Kod ve oyun tasarımına salı günü başlanması karar verildi ve ekip düzeni / rolleri sağlandı. 
 - Bilgi: *Bu sprintten öncede tanışma toplantısı gerçekleştirdik ve 2 toplantıda da ekibimizin 2 üyesi katılım sağlamadığı için görev dağılımı 3 kişi arasında yapılmak zorunda kaldı*
-
 
 - **Sprint Retrospective:**
  Takım içerisinde denge en önemli unsurumuz haline geldi, toplantıları sıkılaştırmak yerine günlük iletişimimizi daha kuvvetlendirmeye karar verdik.  
