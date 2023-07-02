@@ -55,14 +55,14 @@ Bu süreçte önceliğimiz bitmiş bir oyun ortaya koyabilmek ama ekipce elde ed
 2. Sprintte oyunumuzun arayüzü, ilk levellerini tamamlayıp hızlı bir şekilde görsel arayışına geçtik, taslak olarak hazır olsada bu süreçten sonra hedefimiz taslağın üzerinden geliştirmelere devam etmek olacaktır.
 Oyun ismini ingilizce olarak "Return to Earth" yaptık.
 
--**Ürün Durumu**
+- **Ürün Durumu**
  Çalışılmaya başlanmış olup taslaklar üzerinden geliştirilmeye devam edilmektedir 
 ![image](https://github.com/Meigibrary/U113/blob/main/eb8ad1ab-187f-460f-9f63-005a8a90b23e.jpg) ![image](https://github.com/Meigibrary/U113/blob/main/edebba4d-a953-4f2e-93a3-f06eb3636279.jpg) 
--**Sprint Review**
+- **Sprint Review**
 Katılımcılar; Ceylin Sıla Kibaroğlu, Melike Özakbay, Yahya Mercan
 Review: Sprint boyunca belirli görev dağılımları oldu bununla ilgili miro board paylaşımı yapılacak.
 review boyunca zaman uyuşmazlıkları olsada görev dağılımlarını genişlettik, level sayısında değişikliklerin olup olamayacağını konuştuk ve oyun mekaniğinin hyper casual tarzda olmasına karar verdik
--**Günlük Scrum**
+- **Günlük Scrum**
 Haftada 3 gün çalışılma imkanı olmuştur ve miro'da yapılması hedeflenen kısımlardan ilerlenilmiştir.
 ![image](https://miro.com/app/board/uXjVM5xR70U=/)
 Değerlendirmeler kapsamında level kısımları azaltıp belirlenen sürede oynayabilir bir oyun çıkarma amacına odaklanılmıştır.
