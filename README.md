@@ -64,6 +64,6 @@ Review: Sprint boyunca belirli görev dağılımları oldu bununla ilgili miro b
 review boyunca zaman uyuşmazlıkları olsada görev dağılımlarını genişlettik, level sayısında değişikliklerin olup olamayacağını konuştuk ve oyun mekaniğinin hyper casual tarzda olmasına karar verdik
 - **Günlük Scrum**
 Haftada 3 gün çalışılma imkanı olmuştur ve miro'da yapılması hedeflenen kısımlardan ilerlenilmiştir.
-![image](https://miro.com/app/board/uXjVM5xR70U=/)
+  ![image](https://miro.com/app/board/uXjVM5xR70U=/)
 Değerlendirmeler kapsamında level kısımları azaltıp belirlenen sürede oynayabilir bir oyun çıkarma amacına odaklanılmıştır.
 # Sprint 3
