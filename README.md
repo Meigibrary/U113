@@ -51,7 +51,12 @@ Bilgilendirici olmasından ötürü her yaştan insana hitap edebilecek ve epile
 Bu süreçte önceliğimiz bitmiş bir oyun ortaya koyabilmek ama ekipce elde edeceğimiz deneyimi de göz önünde bulundurmaya gayret ediyoruz, bu sebeple Unity üzerine bilgi-kaynak paylaşabileceğimiz odalar oluşturduk
 
 # Sprint 2
+2. Sprintte oyunumuzun arayüzü, ilk levellerini tamamlayıp hızlı bir şekilde görsel arayışına geçtik, taslak olarak hazır olsada bu süreçten sonra hedefimiz taslağın üzerinden geliştirmelere devam etmek olacaktır.
+Oyun ismini ingilizce olarak "Return to Earth" yaptık.
 
+
+**Ürün Durumu**
+Çalışılmaya başlanmış olup taslaklar üzerinden geliştirilmeye devam edilmektedir 
 
 
 
