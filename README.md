@@ -57,7 +57,8 @@ Oyun ismini ingilizce olarak "Return to Earth" yaptık.
 
 **Ürün Durumu**
 Çalışılmaya başlanmış olup taslaklar üzerinden geliştirilmeye devam edilmektedir 
-
+(https://github.com/Meigibrary/U113/blob/main/eb8ad1ab-187f-460f-9f63-005a8a90b23e.jpg)
+(https://github.com/Meigibrary/U113/blob/main/edebba4d-a953-4f2e-93a3-f06eb3636279.jpg=
 
 
 # Sprint 3
