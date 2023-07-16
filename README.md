@@ -77,10 +77,19 @@ Oyun başlangıç/bitiş ekranı eklendi, level background tasarımları hazır 
 Katılımcılar; Ceylin Sıla Kibaroğlu, Melike Özakbay, Yahya Mercan
 Review: Sprint boyunca Miro'da geçen sprintte yaptığımız haritayı takip ettik ve önceki toplantılardan daha fazla iletişim halinde kalarak birbirimizin sorunlarını gidermeye odaklandık son 2 gün için belirlediğimiz hedef  parçaları bir araya getirip ürün kontrolü yapmak.
 - **Daily Scrum**
+- Daily Scrumlar hem Discord hem de Whatsapp üzerinden yapılmaya devam edildi Miro'da ki plan takip edildi.
+- ![image](https://github.com/Meigibrary/U113/assets/120041360/ace09b96-a8fc-4a20-80dc-449057ea80ca)
+- ![image](https://github.com/Meigibrary/U113/assets/120041360/897c8afa-bcb6-4857-b296-bf24115ad172)
 ![image](https://github.com/Meigibrary/U113/assets/120041360/e6037c3e-3be0-4aa3-979b-ead61dd52258)
+![image](https://github.com/Meigibrary/U113/assets/120041360/c6473982-a4e6-4f24-ac76-833c04f543f3)
+![image](https://github.com/Meigibrary/U113/assets/120041360/ea0f27d6-de7b-4e4c-89d6-a6ece713a701)
+
 - **Sprint Retrospective**
 Takım rollerinde bir sorun çıkmadı ve takımdaki herkes rollerini neredeyse tamamladı son kez ekipce kontroller yapılacak.
 - **Sprint Puanı**
 Sprint boyunca puanlama sistemini kullanmadık fakat ilk sprintte çok hatalarımız vardı bu hatalarımızı 2. sprintte kapatmak bizi zorladı 3. Sprint için belirlediğimiz puan 100 üzerinden olucak ve bunu herkese 3 e bölünmüş şekilde (33) tamamladık Yahya Mercan tüm görevlerini tamamladı, Ceylin Sıla Kibaroğlu ve Melike Özakbay iş durumlarından ötürü tasarım ve tasarımları oyuna entegre etmeden sorumlu tutuldu ve tamamladılar.
+**Diğer Notlar**
+  Takıma dahil olmasını istediğimiz 2 arkadaşımızdan hala haber alamadık bu sebeple kendilerini proje dışında tutmaya karar verdik.
+  
 
 
