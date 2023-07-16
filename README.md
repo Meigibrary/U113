@@ -88,7 +88,7 @@ Review: Sprint boyunca Miro'da geçen sprintte yaptığımız haritayı takip et
 Takım rollerinde bir sorun çıkmadı ve takımdaki herkes rollerini neredeyse tamamladı son kez ekipce kontroller yapılacak.
 - **Sprint Puanı**
 Sprint boyunca puanlama sistemini kullanmadık fakat ilk sprintte çok hatalarımız vardı bu hatalarımızı 2. sprintte kapatmak bizi zorladı 3. Sprint için belirlediğimiz puan 100 üzerinden olucak ve bunu herkese 3 e bölünmüş şekilde (33) tamamladık Yahya Mercan tüm görevlerini tamamladı, Ceylin Sıla Kibaroğlu ve Melike Özakbay iş durumlarından ötürü tasarım ve tasarımları oyuna entegre etmeden sorumlu tutuldu ve tamamladılar.
-**Diğer Notlar**
+-**Diğer Notlar**
   Takıma dahil olmasını istediğimiz 2 arkadaşımızdan hala haber alamadık bu sebeple kendilerini proje dışında tutmaya karar verdik.
   
 
