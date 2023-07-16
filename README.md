@@ -68,15 +68,19 @@ Haftada 3 gün çalışılma imkanı olmuştur ve miro'da yapılması hedeflenen
 Değerlendirmeler kapsamında level kısımları azaltıp belirlenen sürede oynayabilir bir oyun çıkarma amacına odaklanılmıştır.
 # Sprint 3
 Bu sprint boyunca oyunumuzun giriş/bitiş ekranlarını game over yazılarını bitirdik ve arayüz güncellemeleri yaptık. Yahya Mercan tekrar eden level sistemleriyle ilgilendi. Melike Özakbay tasarım konusunda daha etkin olduğu için arka plan tasarımlarıyla ilgilendi ayrı asset bulmaya zaman olmadı, Ceylin Sıla Kibaroğlu giriş / bitiş ve kaybediş ekranlarıyla ilgilendi.
-**Ürün Durumu**
+- **Ürün Durumu**
 Oyun başlangıç/bitiş ekranı eklendi, level background tasarımları hazır asset kullanılmadan proje ekibi tarafından tasarlandı.
 ![image](https://github.com/Meigibrary/U113/assets/120041360/f36898f4-be2c-4aea-819a-0ded40130d20)
+![image](https://github.com/Meigibrary/U113/assets/120041360/fcbafe2e-0ea0-48b9-bd56-e6b1e3806139)
 
-**Sprint Review**
+- **Sprint Review**
 Katılımcılar; Ceylin Sıla Kibaroğlu, Melike Özakbay, Yahya Mercan
 Review: Sprint boyunca Miro'da geçen sprintte yaptığımız haritayı takip ettik ve önceki toplantılardan daha fazla iletişim halinde kalarak birbirimizin sorunlarını gidermeye odaklandık son 2 gün için belirlediğimiz hedef  parçaları bir araya getirip ürün kontrolü yapmak.
-**Daily Scrum**
+- **Daily Scrum**
 ![image](https://github.com/Meigibrary/U113/assets/120041360/e6037c3e-3be0-4aa3-979b-ead61dd52258)
-
+- **Sprint Retrospective**
+Takım rollerinde bir sorun çıkmadı ve takımdaki herkes rollerini neredeyse tamamladı son kez ekipce kontroller yapılacak.
+- **Sprint Puanı**
+Sprint boyunca puanlama sistemini kullanmadık fakat ilk sprintte çok hatalarımız vardı bu hatalarımızı 2. sprintte kapatmak bizi zorladı 3. Sprint için belirlediğimiz puan 100 üzerinden olucak ve bunu herkese 3 e bölünmüş şekilde (33) tamamladık Yahya Mercan tüm görevlerini tamamladı, Ceylin Sıla Kibaroğlu ve Melike Özakbay iş durumlarından ötürü tasarım ve tasarımları oyuna entegre etmeden sorumlu tutuldu ve tamamladılar.
 
 
